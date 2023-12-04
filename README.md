@@ -105,11 +105,7 @@ Tusimple_path
 
 For single image demo test:
 
-```shell
-python demo_test.py   -i demo/demo.jpg 
-                      -w experiments/vgg_SCNN_DULR_w9/vgg_SCNN_DULR_w9.pth 
-                      [--visualize / -v]
-```
+Refer to the `demo_test.py` file
 
 ![](demo/demo_result.jpg "demo_result")
 
